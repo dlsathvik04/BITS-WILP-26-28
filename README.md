@@ -21,7 +21,6 @@
 ### 📚 Official Resources
 * [Lecture Slides](https://wilpbitspilaniacin0.sharepoint.com/:f:/r/sites/CloudComputingMerged-CCZG527CSIZG527SEZG527SSZG527S1-26/Shared%20Documents/Prof.%20Arun%20Vadekkedhil/Slides?d=w593f128ba7d74626b69688e76a800b67&csf=1&web=1&e=Y1M5Fx)
 * [Instructor Notes](https://wilpbitspilaniacin0.sharepoint.com/:f:/r/sites/CloudComputingMerged-CCZG527CSIZG527SEZG527SSZG527S1-26/Shared%20Documents/Prof.%20Arun%20Vadekkedhil/Notes?d=w8033250a02124e0fa40fbc1024085d2a&csf=1&web=1&e=r14Hoq)
-* [All CC Notes Folder](./CC/Notes/)
 
 ---
 
@@ -38,7 +37,6 @@
 
 ### 📚 Official Resources
 * Lecture Slides *(Not yet available)*
-* [All DSA Notes Folder](./DSA/Notes/)
 
 ---
 
@@ -53,7 +51,6 @@
 
 ### 📚 Official Resources
 * [Lecture Slides](./ESD/PPT/)
-* [All ESD Notes Folder](./ESD/Notes/)
 
 ---
 
@@ -68,4 +65,3 @@
 
 ### 📚 Official Resources
 * [Lecture Slides](https://wilpbitspilaniacin0.sharepoint.com/sites/ModernDatabaseSystemsS1-26_SSZG507/Class%20Materials/Forms/AllItems.aspx)
-* [All MDS Notes Folder](./MDS/Notes/)
