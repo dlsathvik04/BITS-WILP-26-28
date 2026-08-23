@@ -33,7 +33,7 @@
 - [L03](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260808_103910-Meeting%20Recording.mp4?d=wc315bbece3894c10a400fd945b126681&csf=1&web=1&e=Qzi5sH)
 - [L04](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260822_103608-Meeting%20Recording.mp4?d=wd360ba5f63e8434d94efabd2b4af1c78&csf=1&web=1&e=oeaPOz)
 
-#### [Slides] (./ESD/PPT/)
+#### [Slides](./ESD/PPT/)
 #### [AI Generated Lecture Notes](./ESD/Notes/)
 
 ## S1 - MDS
