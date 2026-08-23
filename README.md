@@ -1,3 +1,15 @@
+> [!WARNING]
+> **📢 Announcements & Deadlines**
+> * **[Cloud Computing]** - EC1 Assignment 1 : Sunday, 23rd August 2026, 10:00 AM until  Wednesday, 7 October 2026, 9:00 PM
+> * **[Exam]** - Exam preference selection (City/Regular/Make-up) for EC2 & EC3 closes at 25th 11:59 PM IST on elearn.
+
+---
+
+# Important Links
+- [OpenAthens](https://my.openathens.net)
+- [Taxila](https://taxila-aws.bits-pilani.ac.in)
+- [ELearn](https://elearn.bits-pilani.ac.in)
+
 # Semester 1
 
 > [!IMPORTANT]
