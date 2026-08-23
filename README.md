@@ -49,7 +49,7 @@
 * **L05** (22-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/DataStructuresandAlgorithmsDesignMerged-SEZG519SSZG519S1-26/Shared%20Documents/Prof.%20Diptendu%20Chatterjee/Recordings/Data%20Structures%20and%20Algorithms%20Design%20(Merged%20-%20SEZG519SSZG519)(S1-26)%20-%20%20Prof.%20Diptendu%20Chatterjee-20260822_082049-Meeting%20Recording.mp4?d=w821afc7e893d41d3b80ba5026c464c1e&csf=1&web=1&e=qaMSYt) | [AI Notes](./DSA/Notes/L05.md)
 
 ### 📚 Official Resources
-* Lecture Slides *(Not yet available)*
+* Lecture Slides *(I could not find them. please let me know if available anywhere)*
 
 ---
 
