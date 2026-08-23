@@ -42,5 +42,5 @@
 - [L03](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/ModernDatabaseSystemsS1-26_SSZG507/Shared%20Documents/General/Recordings/Modern%20Database%20Systems%20(S1-26_SSZG507)-20260809_104014-Meeting%20Recording.mp4?d=w63479d7c2c44428ebbdfeea1fb81fdaf&csf=1&web=1&e=OXxz5u)
 - [L04](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/ModernDatabaseSystemsS1-26_SSZG507/Shared%20Documents/General/Recordings/Modern%20Database%20Systems%20(S1-26_SSZG507)-20260816_103627-Meeting%20Recording.mp4?d=w3a90db9042484ffebed99c7a248ef6dd&csf=1&web=1&e=hbg6V8)
 
-#### [Slides] (https://wilpbitspilaniacin0.sharepoint.com/sites/ModernDatabaseSystemsS1-26_SSZG507/Class%20Materials/Forms/AllItems.aspx)
+#### [Slides](https://wilpbitspilaniacin0.sharepoint.com/sites/ModernDatabaseSystemsS1-26_SSZG507/Class%20Materials/Forms/AllItems.aspx)
 #### [AI Generated Lecture Notes](./MDS/Notes/)
