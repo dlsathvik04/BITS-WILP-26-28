@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **AI-Generated Notes:** The lecture notes linked below are AI-generated summaries intended solely as supplementary study material. Please cross-reference with official lecture slides, recordings, and instructor notes for complete accuracy.
+
+> [!TIP]
+> **Contribute:** Found missing materials, broken links, or want to add resources? Please submit a pull request or open an issue to help keep this repository updated.
+
 # WILP Semester 1 Dashboard — Recordings & Materials
 
 ---
