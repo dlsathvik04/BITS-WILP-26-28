@@ -9,7 +9,7 @@
 - [OpenAthens](https://my.openathens.net)
 - [Taxila](https://taxila-aws.bits-pilani.ac.in)
 - [ELearn](https://elearn.bits-pilani.ac.in)
-- [VirtualLabs](https://prayogshala.bits-pilani.ac.in)
+- [PrayogShala(Labs)](https://prayogshala.bits-pilani.ac.in)
 
 # Semester 1
 
