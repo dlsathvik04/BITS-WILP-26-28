@@ -50,7 +50,7 @@
 
 ### 📚 Official Resources
 - [Chapter 1 PPT](https://drive.google.com/file/d/1y41fN1ZDBG_czuB1PJMCazsTzF8NOi7L/view)
-- [Chapter 1 Question Bank](./DSA/ClassMaterial/Chapter-1_Question Banks.pdf)
+- [Chapter 1 Question Bank]("./DSA/ClassMaterial/Chapter-1_Question Banks.pdf")
 - [Chapter 2 PPT](https://drive.google.com/file/d/1hyf_nWLJ7Jic6dJvoQJMvOh7cQ3ONO4q/view)
 
 ---
