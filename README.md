@@ -34,7 +34,7 @@
 ### 📚 Official Resources
 * [Lecture Slides](https://wilpbitspilaniacin0.sharepoint.com/:f:/r/sites/CloudComputingMerged-CCZG527CSIZG527SEZG527SSZG527S1-26/Shared%20Documents/Prof.%20Arun%20Vadekkedhil/Slides?d=w593f128ba7d74626b69688e76a800b67&csf=1&web=1&e=Y1M5Fx)
 * [Instructor Notes](https://wilpbitspilaniacin0.sharepoint.com/:f:/r/sites/CloudComputingMerged-CCZG527CSIZG527SEZG527SSZG527S1-26/Shared%20Documents/Prof.%20Arun%20Vadekkedhil/Notes?d=w8033250a02124e0fa40fbc1024085d2a&csf=1&web=1&e=r14Hoq)
-
+* [Past Papers](./CC/PastPapers/)
 ---
 
 ## 2. Data Structures & Algorithms Design (DSA)
@@ -52,6 +52,7 @@
 - [Chapter 1 PPT](https://drive.google.com/file/d/1y41fN1ZDBG_czuB1PJMCazsTzF8NOi7L/view)
 - [Chapter 1 Question Bank](./DSA/ClassMaterial/Chapter-1_QuestionBanks.pdf)
 - [Chapter 2 PPT](https://drive.google.com/file/d/1hyf_nWLJ7Jic6dJvoQJMvOh7cQ3ONO4q/view)
+* [Past Papers](./DSA/PastPapers/)
 
 ---
 
