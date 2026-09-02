@@ -49,9 +49,9 @@
 * **L05** (22-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/DataStructuresandAlgorithmsDesignMerged-SEZG519SSZG519S1-26/Shared%20Documents/Prof.%20Diptendu%20Chatterjee/Recordings/Data%20Structures%20and%20Algorithms%20Design%20(Merged%20-%20SEZG519SSZG519)(S1-26)%20-%20%20Prof.%20Diptendu%20Chatterjee-20260822_082049-Meeting%20Recording.mp4?d=w821afc7e893d41d3b80ba5026c464c1e&csf=1&web=1&e=qaMSYt) | [AI Notes](./DSA/Notes/05.md)
 
 ### 📚 Official Resources
-[Chapter 1 PPT](https://drive.google.com/file/d/1y41fN1ZDBG_czuB1PJMCazsTzF8NOi7L/view)
-[Chapter 1 Question Bank](./DSA/ClassMaterial/Chapter-1_Question Banks.pdf)
-[Chapter 2 PPT](https://drive.google.com/file/d/1hyf_nWLJ7Jic6dJvoQJMvOh7cQ3ONO4q/view)
+- [Chapter 1 PPT](https://drive.google.com/file/d/1y41fN1ZDBG_czuB1PJMCazsTzF8NOi7L/view)
+- [Chapter 1 Question Bank](./DSA/ClassMaterial/Chapter-1_Question Banks.pdf)
+- [Chapter 2 PPT](https://drive.google.com/file/d/1hyf_nWLJ7Jic6dJvoQJMvOh7cQ3ONO4q/view)
 
 ---
 
