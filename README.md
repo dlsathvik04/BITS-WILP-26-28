@@ -1,6 +1,9 @@
 > [!IMPORTANT]
 > **📢 Announcements & Deadlines**
-> * **[Cloud Computing]** - EC1 Assignment 1 : Sunday, 23rd August 2026, 10:00 AM until  Wednesday, 7 October 2026, 9:00 PM
+> * **[Cloud Computing]** - Assignment 1 : Sunday, 23rd August 2026, 10:00 AM until  Wednesday, 7 October 2026, 9:00 PM
+> * **[Cloud Computing]** - Quiz 1 : Friday, 4 September 2026, 6:00 AM until  Friday, 11 September 2026, 10:00 PM
+> * **[Modern Database Systems]** - Quiz 1 : Thursday, 3 September 2026, 12:01 AM until Saturday, 12 September 2026, 11:59 PM
+
 
 ---
 
