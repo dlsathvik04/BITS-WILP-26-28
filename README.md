@@ -70,6 +70,8 @@
 * **L03** (08-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260808_103910-Meeting%20Recording.mp4?d=wc315bbece3894c10a400fd945b126681&csf=1&web=1&e=Qzi5sH) | [AI Notes](./ESD/Notes/03.md)
 * **L04** (22-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260822_103608-Meeting%20Recording.mp4?d=wd360ba5f63e8434d94efabd2b4af1c78&csf=1&web=1&e=oeaPOz) | [AI Notes](./ESD/Notes/04.md)
 * **L05** (30-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260829_103231-Meeting%20Recording.mp4?d=wd48334e8c7654ecca81b37fdf0667dc3&csf=1&web=1&e=cPKjz4) | [AI Notes](./ESD/Notes/05.md)
+* **L06** (05-Sep-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260905_103452-Meeting%20Recording.mp4?d=w6ef0c0409a874196847eb00434fd04f7&csf=1&web=1&e=GDddha) | [AI Notes](./ESD/Notes/06.md)
+
 ### 📚 Official Resources
 * [Lecture Slides](./ESD/PPT/)
 
