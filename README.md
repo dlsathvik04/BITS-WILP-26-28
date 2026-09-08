@@ -12,7 +12,7 @@
 - [Taxila](https://taxila-aws.bits-pilani.ac.in)
 - [ELearn](https://elearn.bits-pilani.ac.in)
 - [PrayogShala(Labs)](https://prayogshala.bits-pilani.ac.in)
-- [Examination Portel Mettl](https://certification.mettl.com/bits-pilani-wilp/applicant/login)
+- [Examination Portal Mettl](https://certification.mettl.com/bits-pilani-wilp/applicant/login)
 
 # Semester 1
 
