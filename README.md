@@ -58,6 +58,8 @@
 * **L06** (29-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/DataStructuresandAlgorithmsDesignMerged-SEZG519SSZG519S1-26/Shared%20Documents/Prof.%20Diptendu%20Chatterjee/Recordings/Data%20Structures%20and%20Algorithms%20Design%20(Merged%20-%20SEZG519SSZG519)(S1-26)%20-%20%20Prof.%20Diptendu%20Chatterjee-20260829_082336-Meeting%20Recording.mp4?d=w55a60ee7bcf74a94a72d5c4813b7da8e&csf=1&web=1&e=GPDmR9) | [AI Notes](./DSA/Notes/06.md)
 * **L07** (05-Sep-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/DataStructuresandAlgorithmsDesignMerged-SEZG519SSZG519S1-26/Shared%20Documents/Prof.%20Diptendu%20Chatterjee/Recordings/Data%20Structures%20and%20Algorithms%20Design%20(Merged%20-%20SEZG519SSZG519)(S1-26)%20-%20%20Prof.%20Diptendu%20Chatterjee-20260905_082007-Meeting%20Recording.mp4?d=w2232598eb5244cf6a3f95197f0ea5ab5&csf=1&web=1&e=zWIKbL) | [AI Notes](./DSA/Notes/07.md)
 * **L08** (10-Sep-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/DataStructuresandAlgorithmsDesignMerged-SEZG519SSZG519S1-26/Shared%20Documents/Prof.%20Jay%20Kamlesh%20Dave/Recordings/Data%20Structures%20and%20Algorithms%20Design%20(Merged%20-%20SEZG519SSZG519)(S1-26)%20%20-%20Prof.%20Jay%20Kamlesh%20Dave-20260910_190452-Meeting%20Recording.mp4?d=w516a77ae63de4b91afd1242a7e0cfd64&csf=1&web=1&e=ZEyAq3) | [AI Notes](./DSA/Notes/08.md) (Prof. Jay As the other class was cancelled)
+* **L09** (12-Sep-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/DataStructuresandAlgorithmsDesignMerged-SEZG519SSZG519S1-26/Shared%20Documents/Prof.%20Jay%20Kamlesh%20Dave/Recordings/Data%20Structures%20and%20Algorithms%20Design%20(Merged%20-%20SEZG519SSZG519)(S1-26)%20%20-%20Prof.%20Jay%20Kamlesh%20Dave-20260912_082436-Meeting%20Recording.mp4?d=w51cfaff691474004a264f89aaa6fa93c&csf=1&web=1&e=3eskNT) | [AI Notes](./DSA/Notes/09.md) (Prof. Jay)
+
 
 ### 📚 Official Resources
 - [Chapter 1 PPT](https://drive.google.com/file/d/1y41fN1ZDBG_czuB1PJMCazsTzF8NOi7L/view)
@@ -80,6 +82,8 @@
 * **L04** (22-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260822_103608-Meeting%20Recording.mp4?d=wd360ba5f63e8434d94efabd2b4af1c78&csf=1&web=1&e=oeaPOz) | [AI Notes](./ESD/Notes/04.md)
 * **L05** (30-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260829_103231-Meeting%20Recording.mp4?d=wd48334e8c7654ecca81b37fdf0667dc3&csf=1&web=1&e=cPKjz4) | [AI Notes](./ESD/Notes/05.md)
 * **L06** (05-Sep-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260905_103452-Meeting%20Recording.mp4?d=w6ef0c0409a874196847eb00434fd04f7&csf=1&web=1&e=GDddha) | [AI Notes](./ESD/Notes/06.md)
+* **L07** (12-Sep-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/EmbeddedSystemDesignS1-26_SSZG512/Shared%20Documents/General/Recordings/Embedded%20System%20Design%20(S1-26_SSZG512)-20260912_103527-Meeting%20Recording.mp4?d=w66d53ff6beb4443cb43ab4f72978ab7b&csf=1&web=1&e=EOVL7T) | [AI Notes](./ESD/Notes/07.md)
+
 
 ### 📚 Official Resources
 * [Lecture Slides](./ESD/PPT/)
