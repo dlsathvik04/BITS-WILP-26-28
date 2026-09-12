@@ -25,7 +25,7 @@
 
 ---
 
-## 1. Cloud Computing (CC)
+## 1. Cloud Computing (CC)([Taxila](https://taxila-aws.bits-pilani.ac.in/course/view.php?id=18386))
 **Instructor:** Prof. Arun Vadekkedhil  
 **Course Code:** CCZG527 / CSIZG527 / SEZG527 / SSZG527
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 2. Data Structures & Algorithms Design (DSA)
+## 2. Data Structures & Algorithms Design (DSA)([Taxila](https://taxila-aws.bits-pilani.ac.in/course/view.php?id=18395))
 **Instructor:** Prof. Diptendu Chatterjee  
 **Course Code:** SEZG519 / SSZG519
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 3. Embedded System Design (ESD)
+## 3. Embedded System Design (ESD)([Taxila](https://taxila-aws.bits-pilani.ac.in/course/view.php?id=18037))
 **Course Code:** SSZG512
 
 ### 🎥 Lectures & Notes
@@ -86,7 +86,7 @@
 
 ---
 
-## 4. Modern Database Systems (MDS)
+## 4. Modern Database Systems (MDS)([Taxila](https://taxila-aws.bits-pilani.ac.in/course/view.php?id=17934))
 **Course Code:** SSZG507
 
 ### 🎥 Lectures & Notes
