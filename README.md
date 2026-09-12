@@ -60,6 +60,8 @@
 - [Chapter 1 PPT](https://drive.google.com/file/d/1y41fN1ZDBG_czuB1PJMCazsTzF8NOi7L/view)
 - [Chapter 1 Question Bank](./DSA/ClassMaterial/Chapter-1_QuestionBanks.pdf)
 - [Chapter 2 PPT](https://drive.google.com/file/d/1hyf_nWLJ7Jic6dJvoQJMvOh7cQ3ONO4q/view)
+- [Chapter 2 Question Bank](./DSA/ClassMaterial/Chapter-2_QuestionBanks.pdf)
+- [Chapter 3 PPT](https://drive.google.com/file/d/1RtvOYnhWx3g28Uv2zFTenReXMLJJlOKI/view)
 * [Past Papers](./DSA/PastPapers/)
 
 ---
