@@ -41,6 +41,8 @@
 * [Lecture Slides](https://wilpbitspilaniacin0.sharepoint.com/:f:/r/sites/CloudComputingMerged-CCZG527CSIZG527SEZG527SSZG527S1-26/Shared%20Documents/Prof.%20Arun%20Vadekkedhil/Slides?d=w593f128ba7d74626b69688e76a800b67&csf=1&web=1&e=Y1M5Fx)
 * [Instructor Notes](https://wilpbitspilaniacin0.sharepoint.com/:f:/r/sites/CloudComputingMerged-CCZG527CSIZG527SEZG527SSZG527S1-26/Shared%20Documents/Prof.%20Arun%20Vadekkedhil/Notes?d=w8033250a02124e0fa40fbc1024085d2a&csf=1&web=1&e=r14Hoq)
 * [Past Papers](./CC/PastPapers/)
+* [Mid Semester Combined PDF](https://drive.google.com/file/d/1sic4667VlHKnmg-rXINxtllsZp4Nlmfh/view?usp=sharing)
+
 ---
 
 ## 2. Data Structures & Algorithms Design (DSA)
@@ -64,6 +66,7 @@
 - [Chapter 2 Question Bank](./DSA/ClassMaterial/Chapter-2_QuestionBanks.pdf)
 - [Chapter 3 PPT](https://drive.google.com/file/d/1RtvOYnhWx3g28Uv2zFTenReXMLJJlOKI/view)
 * [Past Papers](./DSA/PastPapers/)
+* [Mid Semester Combined PDF](https://drive.google.com/file/d/1JKXmIFu6X5rAIlCugDEA-v4x0wBb1Hgn/view?usp=sharing)
 
 ---
 
@@ -98,3 +101,4 @@
 ### 📚 Official Resources
 * [Lecture Slides](https://wilpbitspilaniacin0.sharepoint.com/sites/ModernDatabaseSystemsS1-26_SSZG507/Class%20Materials/Forms/AllItems.aspx)
 * [Lab Sheets](https://wilpbitspilaniacin0.sharepoint.com/:f:/r/sites/ModernDatabaseSystemsS1-26_SSZG507/Shared%20Documents/General/LabSheets?d=wb7f7f4af43914edd8fbedc7bd56bb985&csf=1&web=1&e=b7eQOy)
+* [Mid Semester Combined PDF](https://drive.google.com/file/d/1HR_UJ5jwBB40lLCl1LrhquJ4Xrllorjg/view?usp=sharing)
