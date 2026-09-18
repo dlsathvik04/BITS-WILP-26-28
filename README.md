@@ -102,6 +102,12 @@
 * **L06** (30-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/ModernDatabaseSystemsS1-26_SSZG507/Shared%20Documents/General/Recordings/Modern%20Database%20Systems%20(S1-26_SSZG507)-20260830_104334-Meeting%20Recording.mp4?d=w2b61c1e7ce9840dbb670799d84bf6649&csf=1&web=1&e=degcVD) | [AI Notes](./MDS/Notes/06.md)
 * **L07(Lab)** (03-Sep-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/ModernDatabaseSystemsS1-26_SSZG507/Shared%20Documents/General/Recordings/Modern%20Database%20Systems%20(S1-26_SSZG507)-Lab-20260903_191056-Meeting%20Recording.mp4?d=wdfe6523990f24102b241cd06e3ef8fad&csf=1&web=1&e=e3rnSd) | [AI Notes](./MDS/Notes/07.md)
 
+* [**SQL Queries**](./MDS/Lab/SQL.md)
+* [**Redis Lab**](./MDS/Lab/Redis.md)
+* [**MongoDB Lab**](./MDS/Lab/MongoDB.md)
+* [**Neo4J Queries**](./MDS/Lab/Neo4J.md)
+
+
 ### 📚 Official Resources
 * [Lecture Slides](https://wilpbitspilaniacin0.sharepoint.com/sites/ModernDatabaseSystemsS1-26_SSZG507/Class%20Materials/Forms/AllItems.aspx)
 * [Lab Sheets](https://wilpbitspilaniacin0.sharepoint.com/:f:/r/sites/ModernDatabaseSystemsS1-26_SSZG507/Shared%20Documents/General/LabSheets?d=wb7f7f4af43914edd8fbedc7bd56bb985&csf=1&web=1&e=b7eQOy)
