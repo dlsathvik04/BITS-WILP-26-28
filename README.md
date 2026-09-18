@@ -102,6 +102,8 @@
 * **L06** (30-Aug-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/ModernDatabaseSystemsS1-26_SSZG507/Shared%20Documents/General/Recordings/Modern%20Database%20Systems%20(S1-26_SSZG507)-20260830_104334-Meeting%20Recording.mp4?d=w2b61c1e7ce9840dbb670799d84bf6649&csf=1&web=1&e=degcVD) | [AI Notes](./MDS/Notes/06.md)
 * **L07(Lab)** (03-Sep-2026): [Recording](https://wilpbitspilaniacin0.sharepoint.com/:v:/r/sites/ModernDatabaseSystemsS1-26_SSZG507/Shared%20Documents/General/Recordings/Modern%20Database%20Systems%20(S1-26_SSZG507)-Lab-20260903_191056-Meeting%20Recording.mp4?d=wdfe6523990f24102b241cd06e3ef8fad&csf=1&web=1&e=e3rnSd) | [AI Notes](./MDS/Notes/07.md)
 
+
+### Lab Prep
 * [**SQL Queries**](./MDS/Lab/SQL.md)
 * [**Redis Lab**](./MDS/Lab/Redis.md)
 * [**MongoDB Lab**](./MDS/Lab/MongoDB.md)
