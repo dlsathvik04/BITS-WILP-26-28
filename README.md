@@ -87,6 +87,7 @@
 
 ### 📚 Official Resources
 * [Lecture Slides](./ESD/PPT/)
+* [Mid Semester Combined PDF](https://drive.google.com/file/d/11IOE2vwGuySzOvGvpYpqOPefQiYSTxX3/view?usp=sharing)
 
 ---
 
